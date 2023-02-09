@@ -1,3 +1,12 @@
 [submodule "Chase-game"]
 	path = Chase-game
 	url = https://github.com/metnias/Chase-game
+[submodule "Jewelly-Hunter"]
+	path = Jewelly-Hunter
+	url = https://github.com/metnias/Jewelly-Hunter
+[submodule "FlowerEvader"]
+	path = FlowerEvader
+	url = https://github.com/metnias/FlowerEvader
+[submodule "KeyCollector"]
+	path = KeyCollector
+	url = https://github.com/metnias/KeyCollector
